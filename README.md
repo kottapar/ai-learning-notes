@@ -32,12 +32,33 @@ Consider AI/ML alternatives when
 - costs are more than benefits
 - systems are required to be deterministic
 
+**supervised learning**
+Simple linear regression uses a single independent variable, such as weight, to predict someone's height.
 
+Amazon Rekognition is a pre-trained deep learning service for computer vision. 
 
+For example, AWS uses Amazon Comprehend to analyze the comments left on Certification exams. Frequently, Amazon Textract and Amazon Comprehend are used together. Content extracted by Amazon Textract can be given to Amazon Comprehend for sentiment analysis.  
 
+Amazon Transcribe is an automatic speech recognition service that supports over 100 languages. 
 
+Amazon Polly turns text into natural-sounding speech in dozens of languages. It uses deep learning technologies to synthesize human speech.
 
+Amazon Kendra uses machine learning to perform an intelligent search of enterprise systems to quickly find content. 
 
+Amazon Personalize allows businesses to automatically generate personalized recommendations for their customers in industries such as retail, media, and entertainment.
+
+Amazon Translate fluently translates text between 75 different languages. 
+
+Amazon Fraud Detector helps to identify potentially fraudulent online activities such as online payment fraud and creation of fake accounts.
+
+Amazon Bedrock is a fully managed service to build generative AI applications on AWS. 
+
+Amazon SageMaker provides machine learning capabilities for data scientists and developers to prepare, build, train, and deploy high quality ML models efficiently.
+
+ML pipeline
+<img width="577" height="166" alt="image" src="https://github.com/user-attachments/assets/fd47db00-53f7-4aba-b9bf-18fbcf97dbfb" />
+
+AWS Glue - Cloud optimized ETL
 
 
 
